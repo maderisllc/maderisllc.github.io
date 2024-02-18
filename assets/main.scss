@@ -1,0 +1,10 @@
+---
+@import "minima";
+---
+.site-title::before {
+	content: url("/maderis-logo-transparent.png");
+	display: inline-block;
+	position: relative;
+	width: 137px;
+	top: 32px;
+}
