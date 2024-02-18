@@ -3,7 +3,25 @@
         <a class="site-title" href="{{ "/" | relative_url }}">
             <img src="{{ '/assets/images/maderis-logo-trans.png' | relative_url }}" alt="Maderis Logo" />
         </a>
-        ...
+        <nav class="site-nav">
+            <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+            <label for="nav-trigger">
+                <span class="menu-icon">
+                    <svg viewBox="0 0 18 15" width="18px" height="15px">
+                        <path fill="#424242"
+                            d="M1 1h16v2H1zm0 6h16v2H1zm0 6h16v2H1z">
+                        </path>
+                    </svg>
+                </span>
+            </label>
+
+            <div class="trigger">
+                <!-- Custom Navigation Links -->
+                <a class="page-link" href="{{ '/' | relative_url }}">Home</a>
+                <a class="page-link" href="{{ '/about/' | relative_url }}">About</a>
+                <a class="page-link" href="{{ '/services/' | relative_url }}">Services</a>
+                <a class="page-link" href="{{ '/contact/' | relative_url }}">Contact</a>
+            </div>
+        </nav>
     </div>
 </header>
-
