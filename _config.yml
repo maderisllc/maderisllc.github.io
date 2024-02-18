@@ -21,7 +21,7 @@
 title: Maderis
 email: info@maderis.net
 description: >- # this means to ignore newlines until "baseurl:"
-  Maderis offers expert Technical and Cybersecurity Services tailored for small to medium businesses. Based in Central Florida and serving clients nationwide, our team provides comprehensive solutions in IT infrastructure, cloud computing, cybersecurity, and custom services. With a foundation of early internet adoption and a wealth of experience across various industries, we're dedicated to delivering secure, scalable, and forward-thinking solutions to meet your business needs. From enhancing your IT environment to protecting your digital assets, Maderis is your partner in tech innovation and security. Let's elevate your business together.
+  Maderis delivers specialized Technical and Cybersecurity Services for small to medium businesses. From Central Florida, we offer nationwide IT, cloud, and cybersecurity solutions. Leveraging our early internet experience and cross-industry expertise, we provide secure, scalable tech innovations to enhance your business. Partner with us for a fortified IT environment and advanced digital security. Let's grow your business together.
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: maderisllc.github.io
 url: "https://maderisllc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
