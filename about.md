@@ -1,8 +1,10 @@
 ---
 layout: default
-title: About Us
+title: About
 permalink: /about/
 ---
+# About
+
 ## Our Journey
 
 Maderis was founded by a team of early internet adopters and technology enthusiasts who have been tinkering with tech since before the widespread adoption of the internet. With roots in Central Florida, our founders have accumulated a wealth of experience across various sectors, including education, financial services, retail, biotech, and internet services.

@@ -1,8 +1,10 @@
 ---
 layout: default
-title: Contact Us
+title: Contact
 permalink: /contact/
 ---
+# Contact
+
 We'd love to hear from you! At Maderis, your business needs and challenges are what drive us to innovate and excel. Whether you're looking for expert advice on cybersecurity, need support with your IT infrastructure, or have a unique problem that requires a custom solution, our team is here to help.
 
 ## Get in Touch

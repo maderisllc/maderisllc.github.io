@@ -1,8 +1,10 @@
 ---
 layout: default
-title: Our Services
+title: Services
 permalink: /services/
 ---
+# Services
+
 At Maderis, we specialize in a comprehensive range of technical and cybersecurity services designed to meet the unique needs of small and medium businesses. Whether you're in Central Florida or across the nation, our team is here to support your business with cutting-edge solutions and expert guidance.
 
 ## What We Offer
